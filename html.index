@@ -64,8 +64,8 @@
             window.ladi_ttq_data.push(arguments);
          };
       </script>
-      <link rel="canonical" href="https://wedding-vi-nghiep.vercel.app/">
-      <meta property="og:url" content="https://wedding-vi-nghiep.vercel.app">
+      <link rel="canonical" href="https://wedding-nghiep-vi.vercel.app/">
+      <meta property="og:url" content="https://wedding-nghiep-vi.vercel.app">
       <meta property="og:title" content="Tường Vi &amp; Hữu Nghiệp">
       <meta property="og:type" content="website">
       <meta property="og:image" content="https://raw.githubusercontent.com/chunga31999/WeddingChiVy/refs/heads/main/images/2.jpg">
